@@ -1,0 +1,218 @@
+img {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+* {
+  font-family: "Khula", sans-serif;
+}
+
+nav .navbar-nav li a {
+  color: black !important;
+}
+
+.navbar > .navbar-collapse {
+  padding-right: 2rem !important;
+}
+
+.earlyAccess {
+  border-radius: 27px;
+  background: linear-gradient(266.81deg, #009ebe -3.26%, #049c69 92.97%);
+  /* height: 54px; */
+  width: 160px;
+  color: white;
+  font-weight: 700;
+}
+
+.introBackgroundGreen {
+  top: 0;
+  position: absolute;
+  right: 0;
+  z-index: -1;
+}
+
+.nav-link {
+  font-family: "Khula", sans-serif;
+  font-weight: 700;
+  padding-left: 3.125rem !important;
+}
+
+nav .navbar-nav li a {
+  color: white !important;
+}
+
+.title {
+  width: 410px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 43px;
+
+  color: #000000;
+}
+
+.banner {
+  margin-top: 158px;
+}
+
+.headings > .earlyAccess {
+  margin-top: 42px;
+}
+
+.earlyAccess:hover {
+  margin-top: 42px;
+  cursor: pointer;
+  box-shadow: 0 0 3px #000;
+}
+
+.title {
+  margin-bottom: 32px !important;
+}
+
+.perks {
+  display: flex;
+  text-align: center;
+  margin-top: 310px;
+  position: relative;
+}
+
+.perks .earlyAccess {
+  margin-top: 117px;
+}
+
+.perks img {
+  position: absolute;
+  left: 0;
+  top: -10%;
+}
+
+.perks .row {
+  justify-content: center;
+}
+
+.perksFirst {
+  margin-bottom: 77px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.perksList .row {
+  margin-left: 10px;
+}
+
+.launchDate {
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 26px;
+}
+
+.leftList .col,
+.rightList .col {
+  display: flex;
+  margin-top: 30px;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.rightList {
+  margin-left: 70px;
+}
+
+.leftList {
+  width: 500px;
+}
+
+.textIconWrapper {
+  display: flex !important;
+}
+
+.textIconWrapper img {
+  /* margin-top: 7px;
+    margin-left: -30px; */
+  font-size: 30px;
+  height: 28px;
+  width: 28px;
+  margin-left: -20px;
+}
+
+.aboutUs {
+  margin-top: 169px;
+}
+
+.leftOrangeBlock {
+  max-width: 551px;
+  min-height: 548px;
+  height: 100px;
+  border-radius: 100%;
+  border-top-left-radius: 40px;
+  margin-bottom: 92px;
+  background-color: #f2c94c;
+  padding-top: 48px;
+  padding-left: 57px !important;
+  position: relative;
+}
+
+.aboutUsInfo > h1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000;
+}
+
+.aboutUsInfo > p {
+  margin-top: 24px;
+  max-width: 390px;
+  font-family: Hurme Geometric Sans 3;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.whereWeAre {
+  padding: 0;
+}
+
+.whereWeAre > h2 {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+
+.whereWeAre > h4 {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+
+.purpleDots {
+  top: 5px;
+  right: 30px;
+  position: absolute;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.funnyGuy img {
+    margin-top: -115px;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.footer .nav-link {
+    color: black !important;
+}
+
+
